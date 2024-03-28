@@ -12,7 +12,7 @@ public class CodigoMenuIniciar : MonoBehaviour
     private int index;
 
     void Start(){
-        secretCode = new string[] { "z", "o", "n", "e", "t", "a", "n" };
+        secretCode = new string[] { "z", "o", "n", "e", "t", "a", "n" }; //type these letters inside the keys in the game menu to access a secret scene :)
         index = 0;
     }
 
